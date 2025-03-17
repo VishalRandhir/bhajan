@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bhajan/static/css/main.9dfe4a7d.css",
-    "main.js": "/bhajan/static/js/main.1e13fc2e.js",
+    "main.js": "/bhajan/static/js/main.e582116f.js",
     "index.html": "/bhajan/index.html",
     "main.9dfe4a7d.css.map": "/bhajan/static/css/main.9dfe4a7d.css.map",
-    "main.1e13fc2e.js.map": "/bhajan/static/js/main.1e13fc2e.js.map"
+    "main.e582116f.js.map": "/bhajan/static/js/main.e582116f.js.map"
   },
   "entrypoints": [
     "static/css/main.9dfe4a7d.css",
-    "static/js/main.1e13fc2e.js"
+    "static/js/main.e582116f.js"
   ]
 }
